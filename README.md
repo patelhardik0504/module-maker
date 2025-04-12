@@ -7,7 +7,7 @@ A Laravel package to generate module boilerplate code with a single command. It 
 - Resource Controller
 - Blade Views (`index`, `create`, `edit`, `view`)
 - Routes
-- Controller methods with view returns
+- Controller resource methods with view returns
 
 ---
 
