@@ -1,0 +1,23 @@
+{
+    "name": "hardudev/module-maker",
+    "description": "Generate Laravel module boilerplate.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+      "psr-4": {
+        "Hardudev\\ModuleMaker\\": "src/"
+      }
+    },
+    "extra": {
+      "laravel": {
+        "providers": [
+          "Hardudev\\ModuleMaker\\ModuleMakerServiceProvider"
+        ]
+      }
+    },
+    "require": {
+      "php": ">=7.4",
+      "illuminate/support": "^8.0|^9.0|^10.0"
+    }
+  }
+  
