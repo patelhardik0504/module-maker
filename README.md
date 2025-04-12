@@ -25,6 +25,9 @@ In your Laravel project's `composer.json`, add this to the `repositories` sectio
   }
 ]
 
+---
+
+
 ## 🚀 Usage
 
 After installing the package, use the following Artisan command to generate a full module:
